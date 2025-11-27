@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\veilingklok.ui\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\veilingklok.ui\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\veilingklok.ui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\veilingklok.ui\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\veilingklok.ui\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\veilingklok.ui\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklok.data\\veilingklokcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|solutionrelative:veilingklok.data\\veilingklokcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklok.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|solutionrelative:veilingklok.data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklok.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|solutionrelative:veilingklok.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklokproject\\veilingklok.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A447693B-49C3-4D80-996F-CE3A8B6F0D05}|VeilingKlokProject\\VeilingKlok.Api.csproj|solutionrelative:veilingklokproject\\veilingklok.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|c:\\users\\berka\\documents\\veilingklokproject\\veilingklok\\veilingklok.data\\veilingklok.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2895084A-A7E5-49A2-AC94-BD7AAD58EC0A}|VeilingKlok.Data\\VeilingKlok.Data.csproj|solutionrelative:veilingklok.data\\veilingklok.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.tsx",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\src\\pages\\home.tsx",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\VeilingKlok.UI\\src\\pages\\home.tsx",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\src\\pages\\home.tsx*",
+              "RelativeToolTip": "VeilingKlokProject\\VeilingKlok.UI\\src\\pages\\home.tsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-27T05:41:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\package.json",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\VeilingKlok.UI\\package.json",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\package.json",
+              "RelativeToolTip": "VeilingKlokProject\\VeilingKlok.UI\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T05:33:25.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\src\\App.tsx",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\VeilingKlok.UI\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.UI\\src\\App.tsx",
+              "RelativeToolTip": "VeilingKlokProject\\VeilingKlok.UI\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-27T05:30:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeilingKlokContext.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\VeilingKlokContext.cs",
+              "RelativeDocumentMoniker": "VeilingKlok.Data\\VeilingKlokContext.cs",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\VeilingKlokContext.cs",
+              "RelativeToolTip": "VeilingKlok.Data\\VeilingKlokContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:31:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "VeilingKlokProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:32:34.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "VeilingKlok.Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\ProductRepository.cs",
+              "RelativeToolTip": "VeilingKlok.Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:24:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\Product.cs",
+              "RelativeDocumentMoniker": "VeilingKlok.Data\\Product.cs",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\Product.cs",
+              "RelativeToolTip": "VeilingKlok.Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:11:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\appsettings.json",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\appsettings.json",
+              "RelativeToolTip": "VeilingKlokProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T22:16:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\Program.cs",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\Program.cs",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\Program.cs",
+              "RelativeToolTip": "VeilingKlokProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:16:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VeilingKlok.Data",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\VeilingKlok.Data.csproj",
+              "RelativeDocumentMoniker": "VeilingKlok.Data\\VeilingKlok.Data.csproj",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlok.Data\\VeilingKlok.Data.csproj",
+              "RelativeToolTip": "VeilingKlok.Data\\VeilingKlok.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T00:11:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VeilingKlok.Api",
+              "DocumentMoniker": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.Api.csproj",
+              "RelativeDocumentMoniker": "VeilingKlokProject\\VeilingKlok.Api.csproj",
+              "ToolTip": "C:\\Users\\berka\\Documents\\VeilingKlokProject\\VeilingKlok\\VeilingKlokProject\\VeilingKlok.Api.csproj*",
+              "RelativeToolTip": "VeilingKlokProject\\VeilingKlok.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T21:16:32.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
